@@ -1,0 +1,2 @@
+# vcalc
+permalink: /index.html
